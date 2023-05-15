@@ -1,0 +1,27 @@
+    ul {
+        list-style-type: none;
+        padding: 10px;
+        margin: 20px;
+    }
+    
+    li {
+        display: inline;
+        background-color: #add8e6;
+        padding: 30px;
+        margin: 10px;
+        border: 2px solid blue;
+    }
+    
+    li:hover {
+        background-color: blue;
+        cursor: pointer;
+    }
+    
+    section {
+        padding: 30px;
+    }
+    
+    .txt {
+        font-weight: bold;
+        font-size: 20px;
+    }
